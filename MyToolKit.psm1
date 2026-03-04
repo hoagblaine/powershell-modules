@@ -85,7 +85,7 @@ function Get-DetailedList {
 function Get-Weather {
     [CmdletBinding()]
     param(
-        [string]$Location = "Port Huron"
+        [string]$Location = ""
     )
 
     try {
