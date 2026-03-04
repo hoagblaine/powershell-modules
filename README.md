@@ -16,7 +16,7 @@ General-purpose IT toolkit for system management and daily use.
 | `Start-App` | `sa` | Launch any installed app with tab-completion |
 | `Find-Path` | `fp` | Recursive file search across drives |
 | `Get-DetailedList` | `ll` | Linux-style `ls -la` with file sizes |
-| `Get-Weather` | `weather` | Current weather from wttr.in (defaults to Port Huron) |
+| `Get-Weather` | `weather` | Current weather from wttr.in|
 
 ### SearchTools
 
